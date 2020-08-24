@@ -3,6 +3,8 @@ Generalized Van der Waals demos
 
 This repository contains a number of Jupyter notebooks designed to illustrate concepts found in the book, Generalized van der Waals Theory of Molecular Fluids in Bulk and at Surfaces. They include the following notebooks:
 
+- Effective excluded volume for LJ(12-6) - allows the user to specify the temperature to investigate the density dependence of the effective volume iin the Lennard-Jones fluid.
+
 - vdw_isotherms.ipynb - allows the user to specify the temperature and plot the isotherm of the classical van der Waals equation
 
 - vdw_free_energy_isotherms.ipynb - allows the user to specify the temperature and plot the free menergy isotherm of the classical van der Waals equation
